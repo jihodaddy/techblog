@@ -23,3 +23,6 @@
 - 44BITS https://www.44bits.io/ko
 - 개발자스럽다 https://blog.gaerae.com/
 - GeekNews https://news.hada.io/
+
+## 참고 사이트 모음
+- 뎁스노트 https://devsnote.com/
